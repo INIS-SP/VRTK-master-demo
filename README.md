@@ -1,5 +1,12 @@
 # VRTK Master - Additional Demo
 
+## Installation
+
+1. Download the zipped file: [🔗Link](https://github.com/INIS-SP/VRTK-master-demo/archive/master.zip)
+
+2. Extract the content
+3. Open Unity Hub and add as new project.
+
 ## Demos Scenes
 
 1. Better Controls
